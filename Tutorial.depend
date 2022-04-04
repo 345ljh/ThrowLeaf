@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1648697106 source:c:\users\ljh\desktop\unfinished\throughleaf\src\app.cpp
+	"app.h"
+
+1648697106 c:\users\ljh\desktop\unfinished\throughleaf\src\app.h
+	<graphics.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+
+1648980735 source:c:\users\ljh\desktop\unfinished\throughleaf\src\tutorial_main.cpp
+	"graphics.h"
+	"app.h"
+

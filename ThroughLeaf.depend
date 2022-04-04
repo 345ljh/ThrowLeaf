@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1648653943 source:c:\users\ljh\desktop\unfinished\crossleaf\main.cpp
+	"graphics.h"
+
+1648731419 source:c:\users\ljh\desktop\unfinished\crossleaf\src\main.cpp
+	"graphics.h"
+	"gui.h"
+	"leaf.h"
+	"time.h"
+	"player.h"
+
+1648728997 source:c:\users\ljh\desktop\unfinished\crossleaf\src\cvector.cpp
+	"cvector.h"
+
+1648725360 c:\users\ljh\desktop\unfinished\crossleaf\src\cvector.h
+	<malloc.h>
+	<string.h>
+	<stdio.h>
+
+1648732065 source:c:\users\ljh\desktop\unfinished\crossleaf\src\leaf.cpp
+	"leaf.h"
+
+1648725158 c:\users\ljh\desktop\unfinished\crossleaf\src\leaf.h
+	"cvector.h"
+	<stdlib.h>
+
+1648697106 source:c:\users\ljh\desktop\unfinished\crossleaf\src\app.cpp
+	"app.h"
+
+1648697106 c:\users\ljh\desktop\unfinished\crossleaf\src\app.h
+	<graphics.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+
+1648731926 source:c:\users\ljh\desktop\unfinished\crossleaf\src\gui.cpp
+	"gui.h"
+
+1648730030 c:\users\ljh\desktop\unfinished\crossleaf\src\gui.h
+	"graphics.h"
+	"app.h"
+	"leaf.h"
+	"player.h"
+
+1648731684 c:\users\ljh\desktop\unfinished\crossleaf\src\player.h
+	<malloc.h>
+
+1648732052 source:c:\users\ljh\desktop\unfinished\crossleaf\src\player.cpp
+	"player.h"
+
+1648697106 source:c:\users\ljh\desktop\unfinished\throughleaf\src\app.cpp
+	"app.h"
+
+1648697106 c:\users\ljh\desktop\unfinished\throughleaf\src\app.h
+	<graphics.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+
+1648822450 source:c:\users\ljh\desktop\unfinished\throughleaf\src\cvector.cpp
+	"cvector.h"
+
+1648889581 c:\users\ljh\desktop\unfinished\throughleaf\src\cvector.h
+	<malloc.h>
+	<string.h>
+	<stdio.h>
+
+1648979761 source:c:\users\ljh\desktop\unfinished\throughleaf\src\gui.cpp
+	"gui.h"
+
+1648979765 c:\users\ljh\desktop\unfinished\throughleaf\src\gui.h
+	"graphics.h"
+	"app.h"
+	"leaf.h"
+	"player.h"
+	<math.h>
+
+1648959399 c:\users\ljh\desktop\unfinished\throughleaf\src\leaf.h
+	"cvector.h"
+	<stdlib.h>
+	"player.h"
+
+1648966526 c:\users\ljh\desktop\unfinished\throughleaf\src\player.h
+	"graphics.h"
+	"gui.h"
+	"windows.h"
+	<math.h>
+	<malloc.h>
+
+1648969721 source:c:\users\ljh\desktop\unfinished\throughleaf\src\leaf.cpp
+	"leaf.h"
+
+1648981365 source:c:\users\ljh\desktop\unfinished\throughleaf\src\main.cpp
+	"graphics.h"
+	"gui.h"
+	"leaf.h"
+	"time.h"
+	"player.h"
+
+1648976387 source:c:\users\ljh\desktop\unfinished\throughleaf\src\player.cpp
+	"player.h"
+
+1645253495 source:c:\users\ljh\desktop\unfinished\throughleaf\src\icon.rc
+
